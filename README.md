@@ -109,10 +109,10 @@ The project includes six screenshots in `Chart image/`:
 
 As credited in the supplied project README:
 
+- Mohamed Mahmoud Mohamed Ahmed
 - Hassan Saleh Mohamed Ahmed
 - Hassan Ayman Ramadan Abbas
 - Ahmed AbdelKarim Abdelrahman
-- Mohamed Mahmoud Mohamed Ahmed
 - Farouk Mohamed Mohamed Shabana
 - Fares Mansour AbdElRouf
 
